@@ -4,3 +4,5 @@ svg/output/
 .idea/
 svg-min-react/
 .DS_Store
+
+/vendor/

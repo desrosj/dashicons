@@ -1,0 +1,11 @@
+{
+    "name": "jdesrosiers/dashicons",
+    "license": "GPL-2.0-or-later",
+    "authors": [
+        {
+            "name": "Jonathan Desrosiers",
+            "email": "desrosj@gmail.com"
+        }
+    ],
+    "require": {}
+}
